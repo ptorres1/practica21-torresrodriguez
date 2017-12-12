@@ -1,0 +1,30 @@
+[30-Nov-2017 00:30:31 UTC] PHP Warning:  mysql_connect(): Access denied for user 'vaictor'@'localhost' (using password: NO) in /home/ubuntu/workspace/workspace/cfg/conexion.php on line 6
+[30-Nov-2017 00:30:31 UTC] PHP Stack trace:
+[30-Nov-2017 00:30:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/workspace/alta.php:0
+[30-Nov-2017 00:30:31 UTC] PHP   2. require() /home/ubuntu/workspace/workspace/alta.php:3
+[30-Nov-2017 00:30:31 UTC] PHP   3. mysql_connect() /home/ubuntu/workspace/workspace/cfg/conexion.php:6
+[30-Nov-2017 00:30:31 UTC] PHP Warning:  mysql_set_charset(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/workspace/cfg/conexion.php on line 7
+[30-Nov-2017 00:30:31 UTC] PHP Stack trace:
+[30-Nov-2017 00:30:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/workspace/alta.php:0
+[30-Nov-2017 00:30:31 UTC] PHP   2. require() /home/ubuntu/workspace/workspace/alta.php:3
+[30-Nov-2017 00:30:31 UTC] PHP   3. mysql_set_charset() /home/ubuntu/workspace/workspace/cfg/conexion.php:7
+[30-Nov-2017 00:30:31 UTC] PHP Warning:  mysql_set_charset(): A link to the server could not be established in /home/ubuntu/workspace/workspace/cfg/conexion.php on line 7
+[30-Nov-2017 00:30:31 UTC] PHP Stack trace:
+[30-Nov-2017 00:30:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/workspace/alta.php:0
+[30-Nov-2017 00:30:31 UTC] PHP   2. require() /home/ubuntu/workspace/workspace/alta.php:3
+[30-Nov-2017 00:30:31 UTC] PHP   3. mysql_set_charset() /home/ubuntu/workspace/workspace/cfg/conexion.php:7
+[30-Nov-2017 00:44:34 UTC] PHP Warning:  mysql_connect(): Access denied for user 'vaictor'@'localhost' (using password: NO) in /home/ubuntu/workspace/workspace/cfg/conexion.php on line 6
+[30-Nov-2017 00:44:34 UTC] PHP Stack trace:
+[30-Nov-2017 00:44:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/workspace/alta.php:0
+[30-Nov-2017 00:44:34 UTC] PHP   2. require() /home/ubuntu/workspace/workspace/alta.php:3
+[30-Nov-2017 00:44:34 UTC] PHP   3. mysql_connect() /home/ubuntu/workspace/workspace/cfg/conexion.php:6
+[30-Nov-2017 00:44:34 UTC] PHP Warning:  mysql_set_charset(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/workspace/cfg/conexion.php on line 7
+[30-Nov-2017 00:44:34 UTC] PHP Stack trace:
+[30-Nov-2017 00:44:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/workspace/alta.php:0
+[30-Nov-2017 00:44:34 UTC] PHP   2. require() /home/ubuntu/workspace/workspace/alta.php:3
+[30-Nov-2017 00:44:34 UTC] PHP   3. mysql_set_charset() /home/ubuntu/workspace/workspace/cfg/conexion.php:7
+[30-Nov-2017 00:44:34 UTC] PHP Warning:  mysql_set_charset(): A link to the server could not be established in /home/ubuntu/workspace/workspace/cfg/conexion.php on line 7
+[30-Nov-2017 00:44:34 UTC] PHP Stack trace:
+[30-Nov-2017 00:44:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/workspace/alta.php:0
+[30-Nov-2017 00:44:34 UTC] PHP   2. require() /home/ubuntu/workspace/workspace/alta.php:3
+[30-Nov-2017 00:44:34 UTC] PHP   3. mysql_set_charset() /home/ubuntu/workspace/workspace/cfg/conexion.php:7
